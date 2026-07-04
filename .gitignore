@@ -1,0 +1,20 @@
+# Generated data files
+branch_atm_report.xlsx
+raw_branch_atm_data.csv
+branch_master_with_flags.csv
+demo_crisis.xlsx
+demo_healthy.xlsx
+demo_mixed_v2.xlsx
+
+# AI-generated output docs
+summary_*.docx
+Branch_Copilot_Interview_Prep.docx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS
+.DS_Store
